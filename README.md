@@ -3,7 +3,7 @@
 This seq2seq model is implemented by tensorflow(1.11.0 or 1.12.0) to generate acrostic poems. Acrostic poems is where you use the first letter to spell a word or phrase.
 
 # Example
-The dataset contains around 130,000 Chinese poems and it is in `Data` folder. For better understanding, below is an example of English acrostic poem.
+The dataset contains around 130,000 Chinese poems and it is in [`data`](./data) folder. For better understanding, below is an example of English acrostic poem.
 
 Given input word __FALL__, the output of the model would be a poem like below:
 
