@@ -28,3 +28,4 @@ STEP 2: Run `run.sh`
 STEP 3: Run `generate.sh`
 
 For better generation result, one may consider use beamsearch instead of greedy decoder.
+
